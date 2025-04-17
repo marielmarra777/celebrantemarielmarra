@@ -168,7 +168,7 @@ sections:
       - url: /images/IMG_2306.jpeg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/IMG_2012.jpeg
         altText: Contentful logo
         type: ImageBlock
       - url: /images/WhatsApp Image 2024-05-27 at 19.18.22.jpeg
