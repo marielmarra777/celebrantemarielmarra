@@ -353,8 +353,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "Não queríamos algo engessado, e sim verdadeiro, com a nossa cara. O
+          Mariel captou isso de forma impressionante! Foi o início perfeito para
+          nossa vida a dois!"
         tagline: Testimonial 4
         subtitle: 'Maria Walters, Company'
         text: >-
