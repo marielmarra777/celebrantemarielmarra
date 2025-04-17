@@ -332,7 +332,7 @@ sections:
         text: |
           19/10/2024
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_2306.jpeg
           altText: Maria Walters
           styles:
             self:
