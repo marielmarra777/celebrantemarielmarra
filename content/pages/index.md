@@ -304,7 +304,7 @@ sections:
         text: |
           17/08/2024
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_4193.jpeg
           altText: John Doe
           styles:
             self:
