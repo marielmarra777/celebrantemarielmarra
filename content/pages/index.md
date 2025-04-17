@@ -9,9 +9,26 @@ sections:
       type: TitleBlock
     subtitle: Celebrante de casamentos desde 2008
     text: >
-      Mariel Marra possui quase 1000 cerimônias realizadas em MG, SP e BA.
-      Conduz cerimônias inesquecíveis com sensibilidade, fé e alegria. Cada
-      celebração é única, assim como o amor de cada casal.
+      Mariel Marra é um celebrante de casamentos com mais de 16 anos de
+      experiência, tendo conduzido quase 1.000 cerimônias em Minas Gerais, São
+      Paulo, Bahia e outras regiões do Brasil. Teólogo formado pelo Centro
+      Universitário Izabela Hendrix, Mariel é especializado em cerimônias
+      cristãs ecumênicas e habilitado para realizar casamentos religiosos com
+      efeito civil em todo o país.
+
+
+      Seu trabalho é marcado por cerimônias personalizadas, criadas a partir da
+      história de cada casal, com sensibilidade, fé e alegria. Mariel oferece
+      exclusividade de datas e turnos, garantindo atenção total aos noivos.
+
+
+      Com avaliações positivas, como a de Sara, que descreveu sua cerimônia como
+      "leve, romântica e emocionante", Mariel é recomendado por 98% dos casais
+      que utilizaram seus serviços.
+
+
+      Para conhecer mais sobre seu trabalho, você pode visitar seu perfil no
+      Instagram @celebrantemarielmarra
     actions:
       - label: Agende uma conversa
         altText: ''
