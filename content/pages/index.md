@@ -276,7 +276,7 @@ sections:
         text: |
           18/11/2023
         image:
-          url: /images/IMG_4193.jpeg
+          url: /images/IMG_0093.jpeg
           altText: Mariel Marra
           styles:
             self:
