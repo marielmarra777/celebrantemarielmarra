@@ -11,15 +11,20 @@ sections:
     text: >
       Mariel Marra é um celebrante de casamentos com mais de 16 anos de
       experiência, tendo conduzido quase 1.000 cerimônias em Minas Gerais, São
-      Paulo, Bahia e outras regiões do Brasil. Teólogo formado pelo Centro
-      Universitário Izabela Hendrix, Mariel é especializado em cerimônias
-      cristãs ecumênicas e habilitado para realizar casamentos religiosos com
-      efeito civil em todo o país.
+      Paulo, Bahia e outras regiões do Brasil. 
+
+
+      Teólogo formado pelo Centro Universitário Izabela Hendrix, Mariel é
+      especializado em cerimônias cristãs ecumênicas e habilitado para realizar
+      casamentos religiosos com efeito civil em todo o país.
 
 
       Seu trabalho é marcado por cerimônias personalizadas, criadas a partir da
-      história de cada casal, com sensibilidade, fé e alegria. Mariel oferece
-      exclusividade de datas e turnos, garantindo atenção total aos noivos.
+      história de cada casal, com sensibilidade, fé e alegria. 
+
+
+      Mariel oferece exclusividade de datas e turnos, garantindo atenção total
+      aos noivos.
 
 
       Com avaliações positivas, como a de Sara, que descreveu sua cerimônia como
