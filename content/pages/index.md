@@ -421,7 +421,7 @@ sections:
 seo:
   metaTitle: Home - Celebrante Mariel Marra
   metaDescription: Celebrante de Casamentos - Belo Horizonte
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/IMG_0093.jpeg
   type: Seo
 type: PageLayout
 ---
