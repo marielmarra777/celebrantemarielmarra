@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Celebrando o amor com emoçao e propósito
+      text: Celebrando o amor com emoção e propósito
       color: text-dark
       type: TitleBlock
     subtitle: Celebrante de casamento desde 2008
