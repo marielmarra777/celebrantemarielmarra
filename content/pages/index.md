@@ -382,9 +382,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "A cerimônia com o Pr. Mariel foi muito mais do que imaginávamos. Ele
-          não apenas nos conduziu ao altar, mas nos fez refletir sobre o
-          propósito do casamento com profundidade e ternura"
+          "A cerimônia foi muito mais do que imaginávamos. Ele não apenas nos
+          conduziu ao altar, mas nos fez refletir sobre o propósito do casamento
+          com profundidade e ternura"
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
