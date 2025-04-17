@@ -1,0 +1,55 @@
+{
+    "model": "FeaturedItem",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "testemunho",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "testemunho"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "“Foi a cerimônia mais linda que já vi. Mariel conduziu com tanta leveza e emoção que todos se emocionaram e elogiaram muito no final”",
+                "tagline": "Testemunho",
+                "subtitle": "Ana & Bruno",
+                "text": "18/11/2023\n",
+                "image": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/person-placeholder-light.png",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Maria Walters",
+                    "elementId": null,
+                    "styles": {
+                        "self": {
+                            "borderRadius": "full"
+                        }
+                    }
+                },
+                "actions": [],
+                "elementId": null,
+                "colors": "bg-neutralAlt-fg-dark",
+                "styles": {
+                    "self": {
+                        "padding": [
+                            "pt-9",
+                            "pb-9",
+                            "pl-9",
+                            "pr-9"
+                        ],
+                        "textAlign": "left",
+                        "borderRadius": "large",
+                        "flexDirection": "row",
+                        "justifyContent": "center"
+                    }
+                }
+            },
+            "thumbnail": "images/featured-item-testemunho-4753.png"
+        }
+    ]
+}
