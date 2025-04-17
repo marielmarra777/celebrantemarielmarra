@@ -419,7 +419,7 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home - Celebrante Mariel Marra
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
