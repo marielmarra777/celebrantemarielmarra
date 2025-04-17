@@ -385,7 +385,7 @@ sections:
           "A cerimônia foi muito mais do que imaginávamos. Ele não apenas nos
           conduziu ao altar, mas nos fez refletir sobre o propósito do casamento
           com profundidade e ternura"
-        tagline: Testimonial 5
+        tagline: Testemunho
         subtitle: 'Jane Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
