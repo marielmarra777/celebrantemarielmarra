@@ -156,7 +156,7 @@ sections:
         textAlign: center
   - subtitle: Momentos especiais
     images:
-      - url: /images/WhatsApp Image 2024-05-27 at 19.18.22.jpeg
+      - url: /images/IMG_2688.jpeg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/IMG_4087.jpeg
