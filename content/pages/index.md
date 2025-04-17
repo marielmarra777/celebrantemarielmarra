@@ -203,11 +203,17 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: do celebrante Mariel Marra
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Apresentamos neste vídeo uma cerimônia de casamento completa, repleta de
+      emoção, significado e beleza. Cada detalhe foi cuidadosamente pensado para
+      refletir a história única dos noivos, seus valores e seus sonhos. Mas,
+      mais do que mostrar uma celebração, este vídeo revela o coração do nosso
+      trabalho: entender que cada casa começa com um amor singular. Por isso,
+      nenhuma cerimônia é igual à outra. Cada palavra, cada gesto, cada olhar
+      tem um sentido próprio, moldado pela jornada de quem escolheu caminhar
+      junto. Assim como cada casal tem sua própria história, cada cerimônia que
+      celebramos é única, feita sob medida para eternizar esse momento
+      inesquecível.
     media:
       title: Cerimônia completa - Celebrante Mariel Marra
       url: 'https://vimeo.com/256455905'
