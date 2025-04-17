@@ -297,8 +297,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Ele nos ouviu, entendeu nossa história e traduziu tudo em palavras
+          que jamais esqueceremos. Recomendo de olhos fechados"
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
