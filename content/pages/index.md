@@ -329,10 +329,8 @@ sections:
           realizar uma cerimônia, mas construir conosco um momento eterno"
         tagline: Testemunho
         subtitle: Ana & Rodrigo
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          19/10/2024
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
