@@ -357,7 +357,7 @@ sections:
           Mariel captou isso de forma impressionante! Foi o início perfeito para
           nossa vida a dois!"
         tagline: Testemunho
-        subtitle: 'Maria Walters, Company'
+        subtitle: Larissa & Thiago
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
