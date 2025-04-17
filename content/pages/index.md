@@ -211,7 +211,7 @@ sections:
     media:
       title: Title of the video
       url: 'https://vimeo.com/256455905'
-      controls: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
