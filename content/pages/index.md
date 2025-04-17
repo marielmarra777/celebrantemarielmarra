@@ -108,7 +108,7 @@ sections:
           Cerimônia personalizada, sem caráter religioso, do jeito que o casal
           sonhou.
         image:
-          url: /images/icon3.svg
+          url: /images/love.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
