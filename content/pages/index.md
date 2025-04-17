@@ -423,5 +423,7 @@ seo:
   metaDescription: Celebrante de Casamentos - Belo Horizonte
   socialImage: /images/IMG_0093.jpeg
   type: Seo
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
