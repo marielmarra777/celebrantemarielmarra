@@ -13,7 +13,7 @@ sections:
       inesquecíveis com sensibilidade, fé e alegria. Cada celebração é única,
       assim como o amor de cada casal.
     actions:
-      - label: Get started
+      - label: Agende uma conversa
         altText: ''
         url: /
         showIcon: false
