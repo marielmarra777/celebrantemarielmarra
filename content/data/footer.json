@@ -25,16 +25,7 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "2025 - Celebrante Mariel Marra - Belo Horizonte / MG\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
