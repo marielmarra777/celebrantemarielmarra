@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Celebrante o amor com emoçao e propósito
+      text: Celebrando o amor com emoçao e propósito
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
