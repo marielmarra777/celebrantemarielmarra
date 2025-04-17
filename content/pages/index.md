@@ -125,7 +125,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Agende uma conversa
         altText: ''
         url: /
         showIcon: false
