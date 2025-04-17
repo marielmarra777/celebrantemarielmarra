@@ -328,7 +328,7 @@ sections:
           "Desde o primeiro encontro, percebemos que o Mariel não iria apenas
           realizar uma cerimônia, mas construir conosco um momento eterno"
         tagline: Testemunho
-        subtitle: 'Maria Walters, Company'
+        subtitle: Ana & Rodrigo
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
