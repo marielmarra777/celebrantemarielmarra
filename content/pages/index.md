@@ -171,7 +171,7 @@ sections:
       - url: /images/contenful-logo.svg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/WhatsApp Image 2024-05-27 at 19.18.22.jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/IMG_0093.jpeg
