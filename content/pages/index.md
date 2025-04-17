@@ -425,5 +425,6 @@ seo:
   type: Seo
   metaTags:
     - type: MetaTag
+      content: Cerimônia religiosa com efeito civil
 type: PageLayout
 ---
