@@ -269,8 +269,8 @@ sections:
     subtitle: Testemunhos de casais atendidos pelo Celebrante Mariel
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “Foi a cerimônia mais linda que já vi. Mariel conduziu com tanta
+          leveza e emoção que todos se emocionaram e elogiaram muito no final”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
