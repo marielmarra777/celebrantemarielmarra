@@ -229,7 +229,7 @@ sections:
       loop: true
       muted: false
     badge:
-      label: Key Benefits
+      label: Video de uma
       color: text-primary
       styles:
         self:
