@@ -420,7 +420,7 @@ sections:
         textAlign: center
 seo:
   metaTitle: Home - Celebrante Mariel Marra
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Celebrante de Casamentos - Belo Horizonte
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
