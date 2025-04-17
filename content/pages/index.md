@@ -382,8 +382,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "A cerimônia com o Pr. Mariel foi muito mais do que imaginávamos. Ele
+          não apenas nos conduziu ao altar, mas nos fez refletir sobre o
+          propósito do casamento com profundidade e ternura"
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
