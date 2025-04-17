@@ -7,7 +7,7 @@ sections:
       text: Celebrando o amor com emoçao e propósito
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes her
+    subtitle: Celebrante de casamento desde 2008
     text: >
       Desde 2008, Mariel Marra conduz cerimônias inesquecíveis com
       sensibilidade, fé e alegria. Cada celebração é única, assim como o amor de
