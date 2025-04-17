@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: Celebrante de casamento desde 2008
     text: >
-      Mariel Marra possui quase 1000 cerimônias realizadas e conduz cerimônias
-      inesquecíveis com sensibilidade, fé e alegria. Cada celebração é única,
-      assim como o amor de cada casal.
+      Mariel Marra possui quase 1000 cerimônias realizadas em MG, SP e BA.
+      Conduz cerimônias inesquecíveis com sensibilidade, fé e alegria. Cada
+      celebração é única, assim como o amor de cada casal.
     actions:
       - label: Agende uma conversa
         altText: ''
