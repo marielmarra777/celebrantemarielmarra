@@ -204,14 +204,15 @@ sections:
       type: TitleBlock
     subtitle: do celebrante Mariel Marra
     text: >
-      Apresentamos neste vídeo uma cerimônia de casamento completa, repleta de
-      emoção, significado e beleza. Cada detalhe foi cuidadosamente pensado para
-      refletir a história única dos noivos, seus valores e seus sonhos. 
+      Apresentamos neste vídeo abaixo uma cerimônia de casamento completa,
+      repleta de emoção, significado e beleza. Cada detalhe foi cuidadosamente
+      pensado para refletir a história única dos noivos, seus valores e seus
+      sonhos.
 
 
       Mas, mais do que mostrar uma celebração, este vídeo revela o coração do
       nosso trabalho: entender que cada casa começa com um amor singular. Por
-      isso, nenhuma cerimônia é igual à outra. 
+      isso, nenhuma cerimônia é igual à outra.
 
 
       Cada palavra, cada gesto, cada olhar tem um sentido próprio, moldado pela
