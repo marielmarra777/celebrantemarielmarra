@@ -300,7 +300,7 @@ sections:
           "Ele nos ouviu, entendeu nossa história e traduziu tudo em palavras
           que jamais esqueceremos. Recomendo de olhos fechados"
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: Fernanda & Rafael
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
