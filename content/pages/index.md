@@ -209,7 +209,7 @@ sections:
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
-      title: Title of the video
+      title: Cerimônia completa - Celebrante Mariel Marra
       url: 'https://vimeo.com/256455905'
       controls: true
       aspectRatio: '16:9'
