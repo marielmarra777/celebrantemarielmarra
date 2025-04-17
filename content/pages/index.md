@@ -55,10 +55,8 @@ sections:
       - type: FeaturedItem
         title: Religiosa
         subtitle: com efeitos civis
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          União com fé, amor e validade legal.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
