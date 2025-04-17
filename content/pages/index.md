@@ -325,8 +325,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Desde o primeiro encontro, percebemos que o Mariel não iria apenas
+          realizar uma cerimônia, mas construir conosco um momento eterno"
         tagline: Testemunho
         subtitle: 'Maria Walters, Company'
         text: >-
