@@ -25,8 +25,8 @@
         },
         {
             "label": "Entrevista com noivos",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "Entrevista com noivos",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
