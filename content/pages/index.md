@@ -140,7 +140,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
+      label: Conheça os
       color: text-primary
       styles:
         self:
