@@ -84,7 +84,7 @@ sections:
         text: |
           Comemore suas bodas reafirmando o amor com palavras tocantes.
         image:
-          url: /images/icon2.svg
+          url: /images/wedding.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
