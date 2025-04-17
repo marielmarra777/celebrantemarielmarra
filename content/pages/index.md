@@ -156,7 +156,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/WhatsApp Image 2024-05-27 at 19.18.22.jpeg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
