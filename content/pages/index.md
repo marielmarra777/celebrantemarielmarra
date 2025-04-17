@@ -271,7 +271,7 @@ sections:
       - title: >-
           “Foi a cerimônia mais linda que já vi. Mariel conduziu com tanta
           leveza e emoção que todos se emocionaram e elogiaram muito no final”
-        tagline: Testimonial 1
+        tagline: Testemunho
         subtitle: Ana & Bruno
         text: |
           18/11/2023
