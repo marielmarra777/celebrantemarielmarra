@@ -356,7 +356,7 @@ sections:
           "Não queríamos algo engessado, e sim verdadeiro, com a nossa cara. O
           Mariel captou isso de forma impressionante! Foi o início perfeito para
           nossa vida a dois!"
-        tagline: Testimonial 4
+        tagline: Testemunho
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
