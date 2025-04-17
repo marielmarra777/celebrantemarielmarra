@@ -390,7 +390,7 @@ sections:
         text: |
           15/02/2025
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_2688.jpeg
           altText: Maria Walters
           styles:
             self:
