@@ -299,7 +299,7 @@ sections:
       - title: >-
           "Ele nos ouviu, entendeu nossa história e traduziu tudo em palavras
           que jamais esqueceremos. Recomendo de olhos fechados"
-        tagline: Testimonial 2
+        tagline: Testemunho
         subtitle: Fernanda & Rafael
         text: |
           17/08/2024
