@@ -361,7 +361,7 @@ sections:
         text: |
           18/03/2024
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_4087.jpeg
           altText: Maria Walters
           styles:
             self:
