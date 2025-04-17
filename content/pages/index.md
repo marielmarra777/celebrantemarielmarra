@@ -387,10 +387,8 @@ sections:
           com profundidade e ternura"
         tagline: Testemunho
         subtitle: Julianne & Rafael
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          15/02/2025
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
