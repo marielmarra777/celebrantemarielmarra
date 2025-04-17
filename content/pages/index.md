@@ -156,7 +156,7 @@ sections:
         textAlign: center
   - subtitle: Momentos especiais
     images:
-      - url: /images/WhatsApp Image 2024-05-27 at 19.18.22.jpeg
+      - url: /images/IMG_2688.jpeg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/IMG_4087.jpeg
@@ -165,13 +165,13 @@ sections:
       - url: /images/IMG_4193.jpeg
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/IMG_2306.jpeg
         altText: Telus logo
         type: ImageBlock
-      - url: /images/contenful-logo.svg
+      - url: /images/IMG_2012.jpeg
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/sanity-logo.svg
+      - url: /images/WhatsApp Image 2024-05-27 at 19.18.22.jpeg
         altText: Sanity logo
         type: ImageBlock
       - url: /images/IMG_0093.jpeg
@@ -185,25 +185,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -215,22 +196,33 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: CERIMÔNIA COMPLETA
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: do celebrante Mariel Marra
+    text: >
+      Apresentamos neste vídeo abaixo uma cerimônia de casamento completa,
+      repleta de emoção, significado e beleza. Cada detalhe foi cuidadosamente
+      pensado para refletir a história única dos noivos, seus valores e seus
+      sonhos.
+
+
+      Mas, mais do que mostrar uma celebração, este vídeo revela o coração do
+      nosso trabalho: entender que cada casa começa com um amor singular. Por
+      isso, nenhuma cerimônia é igual à outra.
+
+
+      Cada palavra, cada gesto, cada olhar tem um sentido próprio, moldado pela
+      jornada de quem escolheu caminhar junto. Assim como cada casal tem sua
+      própria história, cada cerimônia que celebramos é única, feita sob medida
+      para eternizar esse momento inesquecível.
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
+      title: Cerimônia completa - Celebrante Mariel Marra
+      url: 'https://vimeo.com/256455905'
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:
@@ -246,9 +238,9 @@ sections:
       type: VideoBlock
       autoplay: true
       loop: true
-      muted: true
+      muted: false
     badge:
-      label: Key Benefits
+      label: Video de uma
       color: text-primary
       styles:
         self:
@@ -262,120 +254,6 @@ sections:
       subtitle:
         textAlign: center
     type: GenericSection
-  - type: GenericSection
-    title:
-      text: Generic section with a video
-      color: text-dark
-      styles:
-        self:
-          textAlign: left
-      type: TitleBlock
-    subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-    elementId: null
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: row
-        justifyContent: center
-      subtitle:
-        textAlign: left
-  - title:
-      text: Social Media Management
-      color: text-dark
-      type: TitleBlock
-    subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-    type: GenericSection
-  - title:
-      text: Business Consulting
-      color: text-dark
-      type: TitleBlock
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
-    media:
-      url: /images/hero3.svg
-      altText: Dope design preview
-      type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
-    type: GenericSection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -388,26 +266,24 @@ sections:
     type: DividerSection
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: Testemunhos de casais atendidos pelo Celebrante Mariel
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          “Foi a cerimônia mais linda que já vi. Mariel conduziu com tanta
+          leveza e emoção que todos se emocionaram e elogiaram muito no final”
+        tagline: Testemunho
+        subtitle: Ana & Bruno
+        text: |
+          18/11/2023
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/IMG_0093.jpeg
+          altText: Mariel Marra
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -421,16 +297,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Ele nos ouviu, entendeu nossa história e traduziu tudo em palavras
+          que jamais esqueceremos. Recomendo de olhos fechados"
+        tagline: Testemunho
+        subtitle: Fernanda & Rafael
+        text: |
+          17/08/2024
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_4193.jpeg
           altText: John Doe
           styles:
             self:
@@ -451,16 +325,14 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Desde o primeiro encontro, percebemos que o Mariel não iria apenas
+          realizar uma cerimônia, mas construir conosco um momento eterno"
+        tagline: Testemunho
+        subtitle: Ana & Rodrigo
+        text: |
+          19/10/2024
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_2012.jpeg
           altText: Maria Walters
           styles:
             self:
@@ -481,16 +353,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "Não queríamos algo engessado, e sim verdadeiro, com a nossa cara. O
+          Mariel captou isso de forma impressionante! Foi o início perfeito para
+          nossa vida a dois!"
+        tagline: Testemunho
+        subtitle: Larissa & Thiago
+        text: |
+          18/03/2024
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_4087.jpeg
           altText: Maria Walters
           styles:
             self:
@@ -511,16 +382,15 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          "A cerimônia foi muito mais do que imaginávamos. Ele não apenas nos
+          conduziu ao altar, mas nos fez refletir sobre o propósito do casamento
+          com profundidade e ternura"
+        tagline: Testemunho
+        subtitle: Julianne & Rafael
+        text: |
+          15/02/2025
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/IMG_2688.jpeg
           altText: Maria Walters
           styles:
             self:
@@ -528,36 +398,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -578,98 +418,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - title:
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: Featured items section subtitle
-    items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-          type: ImageBlock
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-        type: FeaturedItem
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedItemsSection
   - title:
       text: Generic Section With A Form
       color: text-dark
