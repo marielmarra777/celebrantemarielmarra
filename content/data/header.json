@@ -8,7 +8,8 @@
                     "mr-3"
                 ],
                 "borderWidth": 4,
-                "borderStyle": "dashed"
+                "borderStyle": "dashed",
+                "borderRadius": "x-small"
             }
         },
         "type": "ImageBlock"
