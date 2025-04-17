@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Agende uma conversa
         altText: ''
-        url: /
+        url: 'https://api.whatsapp.com/send?phone=5531996212757'
         showIcon: false
         icon: arrowRight
         iconPosition: right
