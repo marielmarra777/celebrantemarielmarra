@@ -386,7 +386,7 @@ sections:
           conduziu ao altar, mas nos fez refletir sobre o propósito do casamento
           com profundidade e ternura"
         tagline: Testemunho
-        subtitle: 'Jane Walters, Company'
+        subtitle: Julianne & Rafael
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
