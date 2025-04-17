@@ -154,7 +154,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Momentos especiais
     images:
       - url: /images/WhatsApp Image 2024-05-27 at 19.18.22.jpeg
         altText: Empathy logo
