@@ -196,7 +196,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: CERIMÔNIA COMPLETA
       color: text-dark
       styles:
         self:
