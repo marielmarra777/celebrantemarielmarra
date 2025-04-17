@@ -4,14 +4,38 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Celebrando o amor com emoçao e propósito
+      text: Celebrando o amor com emoção e propósito
       color: text-dark
       type: TitleBlock
-    subtitle: Celebrante de casamento desde 2008
+    subtitle: Celebrante de casamentos desde 2008
     text: >
-      Mariel Marra possui quase 1000 cerimônias realizadas em MG, SP e BA.
-      Conduz cerimônias inesquecíveis com sensibilidade, fé e alegria. Cada
-      celebração é única, assim como o amor de cada casal.
+      Mariel Marra é um celebrante de casamentos com mais de 16 anos de
+      experiência, tendo conduzido quase 1.000 cerimônias em Minas Gerais, São
+      Paulo, Bahia e outras regiões do Brasil.
+
+
+      Teólogo formado pelo Centro Universitário Izabela Hendrix, Mariel é
+      especializado em cerimônias cristãs ecumênicas e habilitado para realizar
+      casamentos religiosos com efeito civil em todo o país.
+
+
+      Seu trabalho é marcado por cerimônias personalizadas, criadas a partir da
+      história de cada casal, com sensibilidade, fé e alegria.
+
+
+      Mariel oferece exclusividade de datas e turnos, garantindo atenção total
+      aos noivos.
+
+
+      Com avaliações positivas, como a de Ana & Bruno, que descreveram sua
+      cerimônia como “Foi a cerimônia mais linda que já vi. Mariel conduziu com
+      tanta leveza e emoção que todos se emocionaram e elogiaram muito no
+      final", Mariel é recomendado por 100% dos casais que utilizaram seus
+      serviços.
+
+
+      Para conhecer mais sobre seu trabalho, você pode visitar seu perfil no
+      Instagram @celebrantemarielmarra
     actions:
       - label: Agende uma conversa
         altText: ''
@@ -75,7 +99,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/wedding-rings.png
           styles:
             self:
               borderRadius: x-large
@@ -84,7 +108,7 @@ sections:
         text: |
           Comemore suas bodas reafirmando o amor com palavras tocantes.
         image:
-          url: /images/icon2.svg
+          url: /images/wedding.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -108,7 +132,7 @@ sections:
           Cerimônia personalizada, sem caráter religioso, do jeito que o casal
           sonhou.
         image:
-          url: /images/icon3.svg
+          url: /images/love.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
