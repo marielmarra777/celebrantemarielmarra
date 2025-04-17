@@ -1,12 +1,15 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/Design sem nome (1).png",
         "altText": "Logo dark",
         "styles": {
             "self": {
                 "margin": [
                     "mr-3"
-                ]
+                ],
+                "borderWidth": 0,
+                "borderStyle": "solid",
+                "borderRadius": "xx-small"
             }
         },
         "type": "ImageBlock"

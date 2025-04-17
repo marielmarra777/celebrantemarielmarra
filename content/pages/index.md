@@ -419,9 +419,12 @@ sections:
       subtitle:
         textAlign: center
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: Home - Celebrante Mariel Marra
+  metaDescription: Celebrante de Casamentos - Belo Horizonte
+  socialImage: /images/IMG_0093.jpeg
   type: Seo
+  metaTags:
+    - type: MetaTag
+      content: Cerimônia religiosa com efeito civil
 type: PageLayout
 ---
