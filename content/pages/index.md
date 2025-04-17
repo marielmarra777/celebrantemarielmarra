@@ -277,7 +277,7 @@ sections:
           18/11/2023
         image:
           url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          altText: Mariel Marra
           styles:
             self:
               borderRadius: full
