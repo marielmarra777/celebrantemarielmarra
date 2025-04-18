@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          fontWeight: 700
+          fontWeight: 400
     subtitle: Celebrante de casamentos desde 2008
     text: >
       Mariel Marra é um celebrante de casamentos com mais de 16 anos de
