@@ -443,7 +443,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    subtitle: Subtitle goes here
+    subtitle: Consulte disponibilidade de agenda
     items: []
     actions:
       - type: Button
