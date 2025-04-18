@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Celebrando o amor com emoção e propósito
+      text: Celebrar o amor com emoção e propósito
       color: text-dark
       type: TitleBlock
       styles:
