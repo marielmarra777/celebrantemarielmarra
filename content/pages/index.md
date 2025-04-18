@@ -307,7 +307,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutralAlt-fg-dark
         styles:
           self:
             padding:
@@ -439,6 +439,32 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: FeaturedItemsSection
+    subtitle: Consulte disponibilidade de agenda
+    items: []
+    actions:
+      - type: Button
+        label: Agende uma conversa
+        altText: ''
+        url: 'https://api.whatsapp.com/send?phone=5531996212757'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
