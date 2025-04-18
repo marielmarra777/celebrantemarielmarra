@@ -26,11 +26,12 @@
         {
             "label": "Entrevista com noivos",
             "altText": "Entrevista com noivos",
-            "url": "entrevistacomnoivos.netlify.app",
+            "url": "https://entrevistacomnoivos.netlify.app/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         }
     ],
     "secondaryLinks": [],
