@@ -447,7 +447,7 @@ sections:
     items: []
     actions:
       - type: Button
-        label: Get started
+        label: Agende uma conversa
         altText: ''
         url: /
         showIcon: false
