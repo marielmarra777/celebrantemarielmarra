@@ -443,13 +443,6 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: Key Benefits
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
