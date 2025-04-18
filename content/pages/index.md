@@ -7,6 +7,9 @@ sections:
       text: Celebrando o amor com emoção e propósito
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: Celebrante de casamentos desde 2008
     text: >
       Mariel Marra é um celebrante de casamentos com mais de 16 anos de
